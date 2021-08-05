@@ -327,7 +327,7 @@ class Generator {
             }
         }
 
-        setTimeout(this.renderFooter(), 1000);
+        setTimeout(this.renderFooter.bind(this), 1000);
     }
 
     renderFooter() {
