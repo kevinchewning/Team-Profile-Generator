@@ -10,7 +10,7 @@ Requires Node.js to be installed with the Jest and Inquirer packages.
 ## Usage
 
 Example video can be viewed at https://drive.google.com/file/d/1zVrB5VP5RR07BDm2CVh6RPVDnBXI-Pf3/view
-Deployed sample webpage can be viewed at 
+Sample html can be viewed at https://github.com/kevinchewning/Team-Profile-Generator/blob/main/dist/index.html
 
 ## Credits
 
